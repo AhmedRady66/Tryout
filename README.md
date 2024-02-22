@@ -1,1 +1,1 @@
-This is a repo to tryout on git commands and git hub
+This is a repo to exercise on git commands and git hub
