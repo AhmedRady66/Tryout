@@ -33,12 +33,3 @@ Welcome to the **Basic Git Commands Practice Repository**! This repository is de
 
 6. **Viewing History and Graphs**
    - `git log`: Show commit logs with optional graph decoration.
-
----
-
-## Getting Started
-
-To get started with this repository, simply clone it to your local machine:
-
-```bash
-git clone https://github.com/yourusername/basic-git-commands.git
