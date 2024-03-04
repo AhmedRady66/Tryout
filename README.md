@@ -33,3 +33,14 @@ Welcome to the **Basic Git Commands Practice Repository**! This repository is de
 
 6. **Viewing History and Graphs**
    - `git log`: Show commit logs with optional graph decoration.
+
+---
+
+Feel free to explore and practice these commands in this repository. Each command may have its own directory with README files and examples to help you understand its usage better.
+
+## Getting Started
+
+To get started with this repository, simply clone it to your local machine using the following command:
+
+1. Clone this repository: git clone https://github.com/AhmedRady66/Tryout.git
+1. Navigate to the project directory: cd Tryout
