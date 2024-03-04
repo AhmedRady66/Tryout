@@ -44,3 +44,9 @@ To get started with this repository, simply clone it to your local machine using
 
 1. Clone this repository: git clone https://github.com/AhmedRady66/Tryout.git
 1. Navigate to the project directory: cd Tryout
+####
+- `start practicing with the provided examples.`
+
+## Contributions
+
+- Contributions are welcome! If you have any suggestions for additional commands or improvements to existing examples, feel free to open an issue or pull request.
